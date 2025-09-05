@@ -2,27 +2,6 @@
 <h3 align="center"> Salesforce Admin | Apex | SOQL | LWC | Flows </h3>
 
 
-<div align="center">
-<table>
-  <tr style="border:0px;" >
-    <td align="center" style="border:0px;">
-        <a href="https://www.linkedin.com/in/amy-ho-4129377/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Logo" style="width: 100px;"/>
-        </a>
-        <br>
-        <b>My LinkedIn</b>
-    </td>
-    <td align="center" style="border:0px;">
-        <a href="https://www.salesforce.com/trailblazer/amyho4" target="_blank">
-        <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/triple-star-ranger.png" alt="Triple Star Ranger Logo" style="width: 100px;"/>
-        </a>
-        <br>
-        <b>My Trailhead</b>
-    </td>
-  </tr>
-</table>
-</div>
-
 
 # ⚙ Salesforce Technologies
 
@@ -46,7 +25,31 @@
 -->
   <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000" height="100" alt="Platform App Builder"/>
   <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" height="100" alt="Platform Administrator"/>
+ <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1753104539000" height="100" alt="AI Associate"/>
+ </div>
+
+
+<div align="center">
+<table>
+  <tr style="border:0px;" >
+    <td align="center" style="border:0px;">
+        <a href="https://www.linkedin.com/in/amy-ho-4129377/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Logo" style="width: 100px;"/>
+        </a>
+        <br>
+        <b>My LinkedIn</b>
+    </td>
+    <td align="center" style="border:0px;">
+        <a href="https://www.salesforce.com/trailblazer/amyho4" target="_blank">
+        <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/triple-star-ranger.png" alt="Triple Star Ranger Logo" style="width: 100px;"/>
+        </a>
+        <br>
+        <b>My Trailhead</b>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khisanth3030&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
