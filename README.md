@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Amy Ho.
 
 <!--
 **khisanth3030/khisanth3030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
