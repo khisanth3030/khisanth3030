@@ -1,8 +1,27 @@
 <h1 align="center"> Amy Ho </h1>
-<h3 align="center"> Salesforce Developer | Apex | SOQL | LWC | Flows </h3>
+<h3 align="center"> Salesforce Admin | Apex | SOQL | LWC | Flows </h3>
 
 
-
+<div align="center">
+<table>
+  <tr style="border:0px;" >
+    <td align="center" style="border:0px;">
+        <a href="https://www.linkedin.com/in/amy-ho-4129377/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Logo" style="width: 100px;"/>
+        </a>
+        <br>
+        <b>My LinkedIn</b>
+    </td>
+    <td align="center" style="border:0px;">
+        <a href="https://www.salesforce.com/trailblazer/amyho4" target="_blank">
+        <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/triple-star-ranger.png" alt="Triple Star Ranger Logo" style="width: 100px;"/>
+        </a>
+        <br>
+        <b>My Trailhead</b>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 # ⚙ Salesforce Technologies
