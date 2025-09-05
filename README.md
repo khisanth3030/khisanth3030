@@ -1,4 +1,17 @@
-## I am Amy Ho.
+<h1 align="center"> Amy Ho </h1>
+<h3 align="center"> Salesforce Developer | Apex | SOQL | LWC | Flows </h3>
+
+# ☁ Salesforce Credentials
+
+<div align="center">
+<!--
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000" height="100" alt="Platform Developer"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA8Sh&oid=00DF0000000gZsu&lastMod=1746780709000" height="100" alt="Platform Administrator II"/>
+-->
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000" height="100" alt="Platform App Builder"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" height="100" alt="Platform Administrator"/>
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khisanth3030&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=khisanth3030&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
